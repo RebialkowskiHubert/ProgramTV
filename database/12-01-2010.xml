@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<programTV>
+    <data>12-01-2010</data>
+    <kanal>
+        <kanal>TVP1</kanal>
+        <listaprog>
+            <dopis>Lorem Ipsum</dopis>
+            <kopis>Serwis Informacyjny</kopis>
+            <nazwa>Wiadomościiii</nazwa>
+            <start>06:00</start>
+        </listaprog>
+    </kanal>
+</programTV>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="arkusz.xsl"?>
+<eksport>
+    <listadata>
+        <data>12-01-2010</data>
+        <kanal>
+            <kanal>TVP1</kanal>
+            <listaprog>
+                <dopis>Lorem Ipsum</dopis>
+                <kopis>Serwis Informacyjny</kopis>
+                <nazwa>Wiadomościiii</nazwa>
+                <start>06:00</start>
+            </listaprog>
+        </kanal>
+    </listadata>
+    <listadata>
+        <data>13-01-2010</data>
+        <kanal>
+            <kanal>TVP1</kanal>
+            <listaprog>
+                <dopis>Lorem Ipsum</dopis>
+                <kopis>Serwis Informacyjny</kopis>
+                <nazwa>Wiadomości</nazwa>
+                <start>06:00</start>
+            </listaprog>
+        </kanal>
+        <kanal>
+            <kanal>TVP2</kanal>
+            <listaprog>
+                <dopis>Lorem Ipsum</dopis>
+                <kopis>Serwis Informacyjny</kopis>
+                <nazwa>Panorama</nazwa>
+                <start>07:00</start>
+            </listaprog>
+        </kanal>
+        <kanal>
+            <kanal>Polsat</kanal>
+            <listaprog>
+                <dopis>Lorem Ipsum</dopis>
+                <kopis>Serwis Informacyjny</kopis>
+                <nazwa>Informacje</nazwa>
+                <start>18:00</start>
+            </listaprog>
+        </kanal>
+    </listadata>
+    <listadata>
+        <data>14-01-2010</data>
+        <kanal>
+            <kanal>TVN</kanal>
+            <listaprog>
+                <dopis>Info</dopis>
+                <kopis>Serwis</kopis>
+                <nazwa>Fakty</nazwa>
+                <start>19:00</start>
+            </listaprog>
+        </kanal>
+    </listadata>
+</eksport>

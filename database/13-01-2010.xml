@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<programTV>
+    <data>13-01-2010</data>
+    <kanal>
+        <kanal>TVP1</kanal>
+        <listaprog>
+            <dopis>Lorem Ipsum</dopis>
+            <kopis>Serwis Informacyjny</kopis>
+            <nazwa>Wiadomości</nazwa>
+            <start>06:00</start>
+        </listaprog>
+    </kanal>
+    <kanal>
+        <kanal>TVP2</kanal>
+        <listaprog>
+            <dopis>Lorem Ipsum</dopis>
+            <kopis>Serwis Informacyjny</kopis>
+            <nazwa>Panorama</nazwa>
+            <start>07:00</start>
+        </listaprog>
+    </kanal>
+    <kanal>
+        <kanal>Polsat</kanal>
+        <listaprog>
+            <dopis>Lorem Ipsum</dopis>
+            <kopis>Serwis Informacyjny</kopis>
+            <nazwa>Informacje</nazwa>
+            <start>18:00</start>
+        </listaprog>
+    </kanal>
+</programTV>

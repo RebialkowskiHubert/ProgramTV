@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<programTV>
+    <data>14-01-2010</data>
+    <kanal>
+        <kanal>TVN</kanal>
+        <listaprog>
+            <dopis>Info</dopis>
+            <kopis>Serwis</kopis>
+            <nazwa>Fakty</nazwa>
+            <start>19:00</start>
+        </listaprog>
+    </kanal>
+</programTV>
